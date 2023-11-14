@@ -7,7 +7,7 @@
 - [x] Observer Design
 - [x] Decorater Design
 - [x] Factory Pattern & Singleton Pattern
-- [ ] Command Pattern
+- [x] Command Pattern
 - [ ] Adapter Pattern & Facade Pattern
 - [ ] Template Method Pattern
 - [ ] Iterator Pattern
