@@ -6,11 +6,11 @@
 - [x] Strategy Design
 - [x] Observer Design
 - [x] Decorater Design
-- [x] Factory Pattern & Singleton Pattern
+- [x] Factory Pattern & SingletonPattern Pattern
 - [x] Command Pattern
-- [x] Adapter Pattern & Facade Pattern
+- [x] AdapterPattern Pattern & FacadePattern Pattern
 - [x] Template Method Pattern
-- [ ] Iterator Pattern
+- [x] Iterator Pattern
 - [ ] Composite Pattern
 - [ ] State Pattern
 - [ ] Proxy Pattern
